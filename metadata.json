@@ -1,0 +1,6 @@
+{
+  "name": "SisaRasa",
+  "description": "Aplikasi web berbasis gamifikasi yang membantu pengguna mengolah sisa bahan makanan di kulkas menjadi resep masakan kreatif melalui fitur roulette interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
